@@ -63,5 +63,15 @@ A API estará disponível em: http://localhost:8080/api
 
 - Maven 3.8+
 
+## ✨ Quer ver tudo funcionando na prática?
+
+### Acesse a aplicação através do link abaixo:
+
+<a href="https://testevivalucas.netlify.app/" target="_blank">Gerenciador de endereços</a>
+
+## Ou apenas a API aqui:
+
+<a href="https://address-manager-production.up.railway.app/api/addresses" target="_blank">Gerenciador de endereços</a>
+
 
 Desenvolvido com 💜 por Lucas Silva.
