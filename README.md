@@ -6,7 +6,7 @@ API para gerenciamento de endereços com cadastro completo (CEP, logradouro, dad
  1. __Clone o repositório__: https://github.com/LuckeSilver/address-manager.git
 
 ## 🏃 Executando o Projeto
-### Opção 1: IDE (Recomendado)
+### Opção 1: IDE
 
 - Importe como projeto Maven na sua IDE favorita
 
@@ -14,10 +14,13 @@ API para gerenciamento de endereços com cadastro completo (CEP, logradouro, dad
 
 ### Opção 2: Terminal
 
-Vá para a pasta do projeto:
-   cd address-manager
+- Vá para a pasta do projeto:
+
+   __cd address-manager__
    
-Rode o comando: mvn spring-boot:run
+- Rode o comando: 
+
+   __mvn spring-boot:run__
 
  2. Configure o banco de dados na url:
 
