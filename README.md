@@ -71,7 +71,7 @@ A API estará disponível em: http://localhost:8080/api
 
 ## Ou apenas a API aqui:
 
-<a href="https://address-manager-production.up.railway.app/api/addresses" target="_blank">Gerenciador de endereços</a>
+<a href="https://address-manager-production.up.railway.app/api/addresses" target="_blank">API Gerenciador de endereços</a>
 
 
 Desenvolvido com 💜 por Lucas Silva.
