@@ -22,11 +22,11 @@ API para gerenciamento de endereços com cadastro completo (CEP, logradouro, dad
 
    __mvn spring-boot:run__
 
- 2. Configure o banco de dados na url:
+## Configure o banco de dados na url:
 
  http://localhost:8080/h2-console/
 
- ### application.yml
+ ### com as informações abaixo
 
    Driver Class: org.h2.Driver
 
