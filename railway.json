@@ -1,0 +1,12 @@
+{
+  "build": {
+    "builder": "maven",
+    "buildCommand": "mvn clean package -DskipTests",
+    "outputs": {
+      "app": "target/*.jar"
+    }
+  },
+  "deploy": {
+    "startCommand": "java -jar target/seu-app.jar"
+  }
+}
