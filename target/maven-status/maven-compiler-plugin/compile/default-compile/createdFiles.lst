@@ -1,0 +1,8 @@
+com\example\addressmanager\controller\AddressController$ErrorResponse.class
+com\example\addressmanager\AddressManagerApplication.class
+com\example\addressmanager\service\AddressService.class
+com\example\addressmanager\exception\GlobalExceptionHandler.class
+com\example\addressmanager\controller\AddressController$SuccessResponse.class
+com\example\addressmanager\controller\AddressController.class
+com\example\addressmanager\model\Address.class
+com\example\addressmanager\repository\AddressRepository.class
