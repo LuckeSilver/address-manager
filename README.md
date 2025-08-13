@@ -37,12 +37,13 @@ Rode o comando: mvn spring-boot:run
 A API estará disponível em: http://localhost:8080/api
 
 ### Rotas Principais
-Método	Endpoint	Descrição
-POST	/api/addresses	Cadastra novo endereço
-GET	/api/addresses	Lista todos endereços
-GET	/api/addresses/{id}	Busca endereço por ID
-PUT	/api/addresses/{id}	Atualiza endereço
-DELETE	/api/addresses/{id}	Remove endereço
+| Método | Endpoint                | Descrição                |
+|--------|-------------------------|--------------------------|
+| POST   | /api/addresses           | Cadastra novo endereço   |
+| GET    | /api/addresses           | Lista todos endereços    |
+| GET    | /api/addresses/{id}      | Busca endereço por ID    |
+| PUT    | /api/addresses/{id}      | Atualiza endereço        |
+| DELETE | /api/addresses/{id}      | Remove endereço          |
 
 ## 🚀 Tecnologias
 - Java 17
